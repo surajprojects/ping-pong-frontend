@@ -20,7 +20,7 @@ This is a simple Ping Pong score keeper built using HTML, CSS, and JavaScript. T
 
 ## Deployment
 
-This game is deployed using GitHub Pages by Tiger. You can play the live version at: [Ping Pong Game](https://surajprojects.github.io/ping-pong-frontend/)
+This game is deployed using GitHub Pages by Tiger. You can play the live version at: [Ping Pong Game](https://surajprojects.github.io/ping-pong-score-keeper/)
 
 ## Getting Started
 
